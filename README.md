@@ -6,4 +6,4 @@ CEPS (China Education Panel Survey) is a large-scale, nationally representative,
 
 The CEPS database was designed by the National Survey Research Center at Renmin University of China. The data is available for academic research purposes. Original data access must be requested from the CEPS Research Team. Contact information can be found on their website (http://ceps.ruc.edu.cn/).
 
-We provided Stata do-file for cleaning the raw data and Mplus inp-file for establishing cross-lagged models. For any other questions, please contact the corresponding author at fuwenxiao0822@163.com.
+We provided Stata do-file for cleaning the raw data and Mplus inp-file for establishing cross-lagged models. For any other questions, please contact the corresponding author at fuwenxiao2020@163.com.
